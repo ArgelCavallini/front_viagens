@@ -1,0 +1,64 @@
+body {
+  text-align: center;
+  margin: 0px;
+  color: 828282;
+}
+
+#hero {
+  width: 542px;
+  margin: 0px auto 62px;
+}
+
+#hero img {
+  margin-top: 72px;
+}
+
+h1 {
+  font-size: 32px;
+  line-height:35px;
+  font-weight: normal;
+  margin-bottom: 32px;
+  font-family: 'Dosis', sans-serif;
+}
+
+h1 span {
+  font-weight: bold;
+}
+
+span {
+  color: #EE24FF;
+}
+
+a {
+  color: #3F3D56;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+p,
+#footer {
+  color: #7d7987;
+  font-size: 15px;
+  line-height: 20px;
+  margin-bottom: 50px;
+  font-family: 'Open Sans', sans-serif;
+}
+
+#footer a + a {
+  margin-left: 28px;
+  margin-bottom: 20px;
+}
+
+#line {
+  width: 568px;
+  height: 0px;
+  border: 1px #eceff2 solid;
+  margin: 0px auto 8px;
+}
+
+#wave {
+  width: 100%;
+  display: block;
+  position: fixed;
+  bottom: 0px;
+}
